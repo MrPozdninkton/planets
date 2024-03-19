@@ -2,4 +2,6 @@ notes.txt
 *.pdf
 *.log
 *.csv
-results/plots
+results/*
+!results/data
+!*.csv
